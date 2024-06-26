@@ -1,6 +1,6 @@
-# Test helpers for Symfony projects
+# Test helpers for Kohana/Symfony projects
 
-[![Build Status](https://travis-ci.org/InterNations/TestingComponent.svg)](https://travis-ci.org/InterNations/TestingComponent)
+[![Test](https://github.com/kohanaworld/testing-component/actions/workflows/tests.yaml/badge.svg)](https://github.com/kohanaworld/testing-component/actions/workflows/tests.yaml)
 
 A collection of test helpers to ease testing of Symfony3 projects.
 
